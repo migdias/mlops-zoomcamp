@@ -1,2 +1,3 @@
 # mlops-zoomcamp
-Repository for MLOps training
+
+This is an example
